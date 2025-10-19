@@ -1,6 +1,6 @@
 {
   "name": "headnote",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prepend banner headers to files.",
   "repository": {
     "type": "git",
